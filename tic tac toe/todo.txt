@@ -1,0 +1,14 @@
+done - nevar notirit ekranu
+done - sagalaba izveleto poziciju un ieliek x
+done - ir divi speletaji
+done - kur jabut clear funkcijai
+done - izvelas nepareizu laucina numuru
+done - nevar pabeigt speli, jo notiek vel viens loop 
+       pirms while main funkcija iziet
+
+player enter ir nevis skaitlis bet simbols
+
+
+
+
+\a - sound 
